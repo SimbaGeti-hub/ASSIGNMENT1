@@ -1,0 +1,209 @@
+/* .abt{
+    background-color: blue;
+    
+}
+
+.abt1{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.abt2{
+    display: flex;
+    text-align: center;
+} */
+
+body{
+    background: radial-gradient(#ffffff,#ffd6d6);
+}
+
+.abt{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.abt1{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+.abt-a{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.abt2{
+    display: flex;
+    position: absolute;
+     top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.abt2-1{
+    margin-right: 20px;
+}
+
+.abt2-2{
+    margin-left: 20px;
+}
+
+.btn{
+    padding: 20px;
+    font-size: 19px;
+}
+
+.full h3{
+    font-size: 30px;
+    font-weight: bolder;
+    border-left: 7px solid aqua;
+    color: #ff523b;
+}
+
+
+
+h2{
+    font-size: 30px;
+    font-weight: bolder;
+    border-left: 7px solid aqua;
+    color: #ff523b;
+}
+
+
+.full{
+    display: flex;
+    text-align: center;
+    border: 2px solid transparent;
+    border-radius: 15px;
+    background-color: #ffffff;
+    box-shadow: 3px 0 5px aqua;
+    margin: 50px;
+}
+
+.full1{
+    width: 45%;
+    padding: 40px;
+    margin: 30px;
+    font-size: 20px;
+}
+
+.full2{
+    width: 45%;
+    padding: 40px;
+    margin: 30px;
+    font-size: 20px;
+}
+
+.full1-1{
+    padding: 40px;
+    margin: 30px;
+}
+
+.full1-2{
+    padding: 40px;
+    margin: 30px;
+}
+
+.full2-1{
+    padding: 25px;
+    margin: 25px;
+}
+
+.full2-2{
+    padding: 25px;
+    margin: 25px;
+}
+
+.full2-3{
+    padding: 25px;
+    margin: 25px;
+}
+
+
+.mission{
+    display: flex;
+    text-align: center;
+    border: 2px solid transparent;
+    border-radius: 15px;
+    box-shadow: 3px 0 5px aqua;
+    background-color: #ffffff;
+    margin: 50px;
+
+}
+
+.mission1{
+    width: 60%;
+    padding: 80px;
+    margin: 110px;
+}
+
+.mission1 h2{
+    border-right: 7px solid aqua;
+}
+.vision1 h2{
+    border-right: 7px solid aqua;
+}
+
+.mission2{
+    width: 40%;
+}
+
+.mission2 img{
+    margin-top: 55px;
+    margin-bottom: 55px;
+    border-radius: 2%;
+}
+
+.mission1 h2{
+    font-size: 40px;
+}
+
+.main-p{
+    font-size: 25px;
+}
+
+.main-p1{
+    font-size: 20px;
+}
+
+
+
+.vision{
+    display: flex;
+    text-align: center;
+    border: 2px solid transparent;
+    border-radius: 15px;
+    box-shadow: 3px 0 5px aqua;
+    background-color: #ffffff;
+    margin: 50px;
+}
+
+.vision1{
+    width: 60%;
+    padding: 80px;
+    margin: 110px;
+}
+.vision h2{
+    font-size: 40px;
+}
+
+.vision2{
+    width: 40%;
+}
+
+.vision2 img{
+    margin-top: 55px;
+    margin-bottom: 55px;
+    border-radius: 2%;
+}
